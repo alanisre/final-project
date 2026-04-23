@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resume</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+
+<body class="bg-light">
+
+<div class="container mt-5">
+  <h1>Alanis Souza</h1>
+
+  <h2>Education</h2>
+  <ul>
+    <li>Brigham Young University – Accounting (Expected Dec 2027)</li>
+    <li>Faculty of Barueri – International Trade (Apr 2024)</li>
+    <li>Antonio Furlan Technical School – Accounting Technician (Dec 2021)</li>
+  </ul>
+
+  <h2>Experience</h2>
+
+  <h4>Waitress – Siam Station Thai Restaurant</h4>
+  <ul>
+    <li>Managed orders and customer service</li>
+    <li>Handled multiple tables</li>
+    <li>Maintained dining area</li>
+  </ul>
+
+  <h4>Head Chef – Siam Station Thai Restaurant</h4>
+  <ul>
+    <li>Promoted within one year</li>
+    <li>Managed kitchen operations and staff</li>
+    <li>Trained employees and monitored inventory</li>
+  </ul>
+
+  <h4>Server – Brazilian Restaurant</h4>
+  <ul>
+    <li>Prepared drinks and handled orders</li>
+    <li>Provided excellent customer service</li>
+  </ul>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Teamwork</li>
+    <li>Customer Service</li>
+    <li>Multitasking</li>
+    <li>Problem Solving</li>
+  </ul>
+
+  <h2>Languages</h2>
+  <ul>
+    <li>Portuguese (Native)</li>
+    <li>Spanish (Advanced)</li>
+    <li>English (Advanced)</li>
+  </ul>
+
+  <a href="index.html">Back Home</a>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Workout Generator</title>
+</head>
+
+<body>
+
+<h1>Workout Generator</h1>
+
+<button onclick="generateWorkout()">Get Workout</button>
+
+<p id="result"></p>
+
+<script>
+function generateWorkout() {
+  let workouts = [
+    "10 Push-ups",
+    "20 Squats",
+    "30 sec Plank",
+    "15 Lunges",
+    "20 Jumping Jacks"
+  ];
+
+  let random = workouts[Math.floor(Math.random() * workouts.length)];
+  document.getElementById("result").innerText = random;
+}
+</script>
+
+<a href="scratch.html">Back</a>
+
+</body>
+</html>
